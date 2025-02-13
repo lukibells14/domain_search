@@ -1,0 +1,4 @@
+pandas
+streamlit
+duckduckgo-search
+openpyxl
